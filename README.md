@@ -18,6 +18,7 @@ There following things are completed in this project
 
 
 B. Reading the data
+
 We can directly read our data as rdd or dataframe in databricks.Rdd is usually the unstructered form of data,where df is the structured
 form.We can change rdd to df or df to rdd as we need.I have performed the following tasks.
 
@@ -32,6 +33,7 @@ form.We can change rdd to df or df to rdd as we need.I have performed the follow
 5.Convert Spark DataFrame to Pandas DataFrame
 
 C. Tasks
+
 I have done the following tasks in sql enviroment.
 
 1.Select first 10 rows of dataset.
